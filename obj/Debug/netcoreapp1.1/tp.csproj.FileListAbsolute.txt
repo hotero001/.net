@@ -1,0 +1,8 @@
+/Users/hotero001/tp/bin/Debug/netcoreapp1.1/tp.deps.json
+/Users/hotero001/tp/bin/Debug/netcoreapp1.1/tp.runtimeconfig.json
+/Users/hotero001/tp/bin/Debug/netcoreapp1.1/tp.runtimeconfig.dev.json
+/Users/hotero001/tp/bin/Debug/netcoreapp1.1/tp.dll
+/Users/hotero001/tp/bin/Debug/netcoreapp1.1/tp.pdb
+/Users/hotero001/tp/obj/Debug/netcoreapp1.1/tp.AssemblyInfo.cs
+/Users/hotero001/tp/obj/Debug/netcoreapp1.1/tp.dll
+/Users/hotero001/tp/obj/Debug/netcoreapp1.1/tp.pdb
